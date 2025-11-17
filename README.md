@@ -2,7 +2,7 @@
 
 This project implements and compares several reinforcement learning algorithms on the `PandaReachDense-v3` robotic control task from Panda-Gym, using Stable-Baselines3 in Google Colab.
 
-The goal is to train the Panda robot arm to reach a target position without inverse kinematics (IK) or trajectory planning, relying purely on continuous-control RL.
+The goal is to train the Panda robot arm to reach a target position without trajectory planning, relying purely on continuous-control RL.
 
 ---
 
